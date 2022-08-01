@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["bevy_reflect"] = [{"text":"impl&lt;'a, 'de&gt; <a class=\"trait\" href=\"serde/de/trait.DeserializeSeed.html\" title=\"trait serde::de::DeserializeSeed\">DeserializeSeed</a>&lt;'de&gt; for <a class=\"struct\" href=\"bevy_reflect/serde/struct.ReflectDeserializer.html\" title=\"struct bevy_reflect::serde::ReflectDeserializer\">ReflectDeserializer</a>&lt;'a&gt;","synthetic":false,"types":["bevy_reflect::serde::de::ReflectDeserializer"]}];
+implementors["serde"] = [];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

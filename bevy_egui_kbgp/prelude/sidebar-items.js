@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["KbgpNavActivation",""],["KbgpNavCommand",""]],"struct":[["KbgpNavBindings","Input mapping for navigation."]]});

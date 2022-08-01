@@ -1,0 +1,6 @@
+(function() {var implementors = {};
+implementors["bevy"] = [];
+implementors["bevy_core_pipeline"] = [{"text":"impl <a class=\"trait\" href=\"bevy_render/render_graph/node/trait.Node.html\" title=\"trait bevy_render::render_graph::node::Node\">Node</a> for <a class=\"struct\" href=\"bevy_core_pipeline/core_2d/struct.MainPass2dNode.html\" title=\"struct bevy_core_pipeline::core_2d::MainPass2dNode\">MainPass2dNode</a>","synthetic":false,"types":["bevy_core_pipeline::core_2d::main_pass_2d_node::MainPass2dNode"]},{"text":"impl <a class=\"trait\" href=\"bevy_render/render_graph/node/trait.Node.html\" title=\"trait bevy_render::render_graph::node::Node\">Node</a> for <a class=\"struct\" href=\"bevy_core_pipeline/core_3d/struct.MainPass3dNode.html\" title=\"struct bevy_core_pipeline::core_3d::MainPass3dNode\">MainPass3dNode</a>","synthetic":false,"types":["bevy_core_pipeline::core_3d::main_pass_3d_node::MainPass3dNode"]}];
+implementors["bevy_internal"] = [];
+implementors["bevy_render"] = [];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
